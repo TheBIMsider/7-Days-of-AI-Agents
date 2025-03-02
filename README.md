@@ -8,6 +8,6 @@ What is 7 Days of AI Coding, you ask? It's an opportunity Learn to build AI agen
 
 You can see what I did for each day below 👇
 
-Day1: [AI-Generated Landing Page](https://thebimsider.github.io/7-Days-of-AI-Coding/Day1) This landing page uses [FormSubmit](https://formsubmit.co/) to handle the subscription, great free option.   
+Day1: [Customer Support AI agent](https://thebimsider.github.io/7-Days-of-AI-Agents/Day1) This landing page uses [Voiceflow](https://www.voiceflow.com/) to power the AI Agent behind **"The BIMsider Chatbot-3000"**
 
 
