@@ -2,9 +2,9 @@
 # 7-Days-of-AI-Agents
 A place to store my projects from **#7DaysofAIAgents** from [100 School](https://www.100school.com/)
 
-This repository is for my adventures with the [7 Days of AI Agent Challenge](https://www.100school.com/atomic-challenges/7daysofaiagents)
+This repository is for my adventures with the [7 Days of AI Agents Challenge](https://www.100school.com/atomic-challenges/7daysofaiagents)
 
-What is 7 Days of AI Coding, you ask? It's an opportunity Learn to build AI agents in 7 days with daily bitesized lessons. Free, fun and effective 30 minute bitesized lessons delivered daily to guide your AI journey.
+What is 7 Days of AI Agents, you ask? It's an opportunity Learn to build AI agents in 7 days with daily bitesized lessons. Free, fun and effective 30 minute bitesized lessons delivered daily to guide your AI journey.
 
 You can see what I did for each day below 👇
 
