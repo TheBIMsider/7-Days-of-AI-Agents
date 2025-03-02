@@ -1,4 +1,4 @@
-[![7DoAIA](https://github.com/user-attachments/assets/86739c49-2f0b-40d4-85e9-01f19176bfa2))](https://www.100school.com/atomic-challenges/7daysofaiagents)
+[![7DoAIA](https://github.com/user-attachments/assets/86739c49-2f0b-40d4-85e9-01f19176bfa2)](https://www.100school.com/atomic-challenges/7daysofaiagents)
 # 7-Days-of-AI-Agents
 A place to store my projects from **#7DaysofAIAgents** from [100 School](https://www.100school.com/)
 
