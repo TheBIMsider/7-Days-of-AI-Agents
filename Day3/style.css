@@ -1,0 +1,158 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  background-color: #f2faf5;
+}
+
+.container {
+  text-align: center;
+  padding: 20px;
+  max-width: 600px;
+  margin: auto;
+  flex-grow: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+h1 {
+  font-size: 2.5em;
+  color: #000;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.logo {
+  max-width: 300px;
+  height: auto;
+  margin: 20px auto;
+  display: block;
+}
+
+h2 {
+  font-size: 1.8em;
+  color: #000;
+  margin-bottom: 20px;
+}
+
+p {
+  font-size: 1.2em;
+  color: #333;
+  margin-bottom: 30px;
+}
+
+.form-group {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+input[type='email'] {
+  padding: 10px 15px;
+  font-size: 1em;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  min-width: 250px;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 1em;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: #90ee90;
+}
+
+/* Footer Styles */
+footer {
+  width: 100%;
+  padding: 20px 0;
+  background-color: red;
+  margin-top: auto;
+}
+
+.social-media {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 15px;
+  margin-bottom: 15px;
+}
+
+.social-button {
+  display: inline-block;
+  transition: transform 0.3s ease;
+}
+
+.social-button:hover {
+  transform: scale(1.1);
+}
+
+.social-button img {
+  width: 40px;
+  height: 40px;
+}
+
+.footer-credits {
+  text-align: center;
+  font-size: 0.9em;
+  color: #666;
+}
+
+.footer-credits a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+.footer-credits a:hover {
+  text-decoration: underline;
+}
+
+/* Responsive design */
+@media (max-width: 480px) {
+  .container {
+    padding: 10px;
+  }
+
+  h1 {
+    font-size: 2em;
+  }
+
+  h2 {
+    font-size: 1.5em;
+  }
+
+  p {
+    font-size: 1em;
+  }
+
+  input[type='email'] {
+    width: 100%;
+    margin-bottom: 10px;
+  }
+
+  button {
+    width: 100%;
+  }
+
+  .social-media {
+    gap: 10px;
+  }
+
+  .social-button img {
+    width: 35px;
+    height: 35px;
+  }
+}
