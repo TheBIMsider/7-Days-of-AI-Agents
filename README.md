@@ -12,5 +12,5 @@ Day1: [Customer Support AI Agent](https://thebimsider.github.io/7-Days-of-AI-Age
 Day2: [Custom GPT AI Agent](https://thebimsider.github.io/7-Days-of-AI-Agents/Day2) I used [Chipp](https://www.chipp.ai/) to power the AI Agent behind **"Walken Talking Machine 8100"**    
 Day3: [Conversational AI Agents](https://thebimsider.github.io/7-Days-of-AI-Agents/Day3) I used [ElevenLabs](https://elevenlabs.io/) to power the AI Agent behind **"AI Travel Hooser!"**    
 Day4: [Lead Generation AI Agents](https://thebimsider.github.io/7-Days-of-AI-Agents/Day4) I used [Tiledesk](https://tiledesk.com/) to power the AI Agent behind **"Chatty Von-Chatterton"**    
-
+Day5: [Automate Meeting Invites](https://x.com/theBIMsider/status/1897423979872239826) I used [Zapier](https://zapier.com/) to power the AI Agent behind **"Zaptain Calendar"**    
 
